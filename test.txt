@@ -1,6 +1,3 @@
+Merging and conflicts are a common part of the Git experience. Conflicts in other version control tools like SVN can be costly and time-consuming. Git makes merging super easy. Most of the time, Git will figure out how to automatically integrate new changes.
 
-test testing 44
 
-file
-
-rrr
